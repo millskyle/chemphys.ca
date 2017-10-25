@@ -1,5 +1,17 @@
 # chemphys.ca
 
+
+
+## To update Publications or People
+
+1. Edit a file in the `test` branch (this is the default branch).
+2. Commit your changes to the `test` branch.
+3. Check https://chemphys.ca/publications-test and/or https://chemphys.ca/people-test to very your change took effect and did not break anything.
+4. Create a new pull request into Master, noting that you confirm your change did not break the website.
+
+
+
+
 # Publications
 
 In `publications.js`, a publications entry looks like
