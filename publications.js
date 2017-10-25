@@ -32,6 +32,14 @@ app.controller('myCtrl', function($scope, $location) {
 
         publications: [
             {
+                authors: ["John Smith"],
+                title: "This is a test paper entry",
+                date: "2017-11-01",
+                DOI: "",
+                arxiv: "1710.08053",
+                abstract: "",
+            },
+            {
                 authors: ["Kyle Mills", "Isaac Tamblyn"],
                 title: "Phase space sampling and operator confidence with generative adversarial networks",
                 date: "2017-10-01",
