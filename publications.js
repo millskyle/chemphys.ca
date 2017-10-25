@@ -40,6 +40,15 @@ app.controller('myCtrl', function($scope, $location) {
                 abstract: "",
             },
             {
+                authors: ["Jack Rogers"],
+                title: "This paper is the best",
+                date: "2019-11-01",
+                DOI: "",
+                arxiv: "171f.08053",
+                abstract: "",
+            },
+ 
+            {
                 authors: ["Kyle Mills", "Isaac Tamblyn"],
                 title: "Phase space sampling and operator confidence with generative adversarial networks",
                 date: "2017-10-01",
