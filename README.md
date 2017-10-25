@@ -34,7 +34,7 @@ In `publications.js`, a publications entry looks like
 In `people.js`, a people entry looks like
 
 ```python
-			{
+            {
                 name: "First Last",
                 photo: "https://chemphys.ca/pages/people_photos/cat14.jpeg",
                 email: "email@email.com",
@@ -43,7 +43,7 @@ In `people.js`, a people entry looks like
                 affiliations: ["Affiliation 1", "Affiliation 2"],
                 order: 700,
                 former: true,
-			},
+            },
 ```
 
 
