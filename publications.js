@@ -37,7 +37,6 @@ app.controller('myCtrl', function($scope, $location) {
                 date: "2017-10-01",
                 DOI: "",
                 arxiv: "1710.08053",
-                color: 2,
                 abstract: "",
             },
             {
@@ -46,7 +45,6 @@ app.controller('myCtrl', function($scope, $location) {
                 date: "2017-08-25",
                 arxiv: "1708.06686",
                 pdf: "",
-                color: 3,
                 abstract: "",
             },
             {
@@ -55,7 +53,6 @@ app.controller('myCtrl', function($scope, $location) {
                 date: "2017-07-31",
                 arxiv: "1706.09496",
                 pdf: "",
-                color: 4,
                 abstract: "",
             },{
                 authors: ["Kyle Mills","Isaac Tamblyn"],
@@ -63,7 +60,6 @@ app.controller('myCtrl', function($scope, $location) {
                 date: "2018-01-01",
                 arxiv: "1706.09779",
                 pdf: "",
-                color: 5,
                 abstract: "",
             },
             {
@@ -74,7 +70,6 @@ app.controller('myCtrl', function($scope, $location) {
                 DOI: "10.1103/PhysRevA.96.042113",
                 arxiv: "1702.01361",
                 pdf: "",
-                color: 6,
                 abstract: "",
             },
             {
@@ -85,7 +80,6 @@ app.controller('myCtrl', function($scope, $location) {
                 arxiv: "1611.05891",
                 DOI: "10.1016/j.jcp.2017.06.045",
                 pdf: "",
-                color: 7,
                 abstract: "",
             },
         ]
