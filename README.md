@@ -21,7 +21,7 @@ In `publications.js`, a publications entry looks like
 - `title`: The title of the publication
 - `date`: string representation of publication date. Only year is displayed. Month and day are used for sorting.
 - `journal`: OPTIONAL. Journal reference
-- `DOI`: OPTIONAL. The Digital Object Identifyer, without the "https://doi.org/"
+- `DOI`: OPTIONAL. The Digital Object Identifier, without the "https://doi.org/"
 - `arxiv`: OPTIONAL. The arXiv.org identifier.
 - `pdf`: OPTIONAL. The link to a PDF version of the publication.  If `arxiv` is specified, `pdf` will be populated automatically. If both are specified, the `pdf` specified explicitly will take precedent.- `abstract`: UNUSED. A field for the publication abstract, but is currently unused.
 
