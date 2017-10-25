@@ -62,6 +62,14 @@ app.controller('myCtrl', function($scope, $location) {
                 name: "Khabat Heshami",
                 photo: "https://chemphys.ca/pages/people_photos/cat04.jpeg",
                 email: "khabat.heshami@nrc.ca",
+                status: "Research Assistant",
+                website: "",
+                order: 100,
+            },
+	    {
+                name: "Homin Shin",
+                photo: "https://chemphys.ca/pages/people_photos/cat18.jpeg",
+                email: "homin.shin@nrc.ca",
                 status: "Research Officer",
                 website: "",
                 order: 100,
@@ -122,7 +130,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Ryan MacDonell",
                 photo: "https://chemphys.ca/pages/people_photos/cat11.jpeg",
-                email: "kryczko@uottawa.ca",
+                email: "rmacd054@uottawa.ca",
                 status: "PhD Student",
                 website: "",
                 affiliations: ["University of Ottawa"],

@@ -4,10 +4,11 @@
 
 ## To update Publications or People
 
-1. Edit a file in the `test` branch (this is the default branch).
-2. Commit your changes to the `test` branch.
+0. Fork the repository if this is your first time (button in the upper right corner)
+1. Edit a file in your forked repository.
+2. Commit your changes.
 3. Check https://chemphys.ca/pages/people.php?u=x and/or https://chemphys.ca/pages/publications.php?u=x to verify your change took effect and did not break anything.  Replace the 'x' with your GitHub username.
-4. Create a new pull request into Master, noting that you confirm your change did not break the website.
+4. Create a new pull request, noting that you confirm your change did not break the website.
 5. An admin must approve the pull request. Once this happens, the change will take affect.  The `master` version is cached, and changes could take a bit after they are merged into `master`.
 
 
