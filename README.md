@@ -6,7 +6,7 @@
 
 1. Edit a file in the `test` branch (this is the default branch).
 2. Commit your changes to the `test` branch.
-3. Check https://chemphys.ca/publications-test and/or https://chemphys.ca/people-test to very your change took effect and did not break anything.
+3. Check https://chemphys.ca/pages/people.php?u=githubusername and/or https://chemphys.ca/pages/publications.php?u=githubusername to verify your change took effect and did not break anything.
 4. Create a new pull request into Master, noting that you confirm your change did not break the website.
 5. An admin must approve the pull request. Once this happens, the change will take affect.  The `master` version is cached, and changes could take a bit after they are merged into `master`.
 
