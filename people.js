@@ -84,6 +84,15 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 400,
             },
             {
+                name: "Issaka Seidu",
+                photo: "https://chemphys.ca/pages/people_photos/cat16.jpeg",
+                email: "email@email.com",
+                status: "Postdoctoral Fellow",
+                website: "",
+                order: 400,
+            },
+
+            {
                 name: "Uladzimir Yahorau",
                 photo: "https://chemphys.ca/pages/people_photos/cat12.jpeg",
                 email: "email@email.com",
