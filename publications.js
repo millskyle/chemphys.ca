@@ -32,54 +32,6 @@ app.controller('myCtrl', function($scope, $location) {
 
         publications: [
             {
-                authors: ["John Smith"],
-                title: "This is a test paper entry",
-                date: "2017-11-01",
-                DOI: "",
-                arxiv: "1710.08053",
-                abstract: "",
-            },
-            {
-                authors: ["Jack Rogers"],
-                title: "This paper is the best",
-                date: "2019-11-01",
-                DOI: "",
-                arxiv: "171f.08053",
-                abstract: "",
-            },
- 
-            {
-                authors: ["Kyle Mills", "Isaac Tamblyn"],
-                title: "Phase space sampling and operator confidence with generative adversarial networks",
-                date: "2017-10-01",
-                DOI: "",
-                arxiv: "1710.08053",
-                abstract: "",
-            },
-            {
-                authors: ["Iryna Luchak","Kyle Mills","Kevin Ryczko","Adam Domurad","Chris Beeler","Isaac Tamblyn"],
-                title: "Extensive deep neural networks",
-                date: "2017-08-25",
-                arxiv: "1708.06686",
-                pdf: "",
-                abstract: "",
-            },
-            {
-                authors: ["Kevin Ryczko","Kyle Mills", "Iryna Luchak", "C. Homenick", "Isaac Tamblyn"],
-                title: "Convolutional neural networks for atomistic systems",
-                date: "2017-07-31",
-                arxiv: "1706.09496",
-                pdf: "",
-                abstract: "",
-            },{
-                authors: ["Kyle Mills","Isaac Tamblyn"],
-                title: "Deep neural networks for learning operators through observation: the case of the 2d Ising model",
-                date: "2018-01-01",
-                arxiv: "1706.09779",
-                pdf: "",
-                abstract: "",
-            },
-            {
                 authors: ["Kyle Mills", "Michael Spanner", "Isaac Tamblyn"],
                 title: "Deep learning and the Schrodinger Equation",
                 date: "2017-10-18",
