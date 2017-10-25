@@ -122,7 +122,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Ryan MacDonell",
                 photo: "https://chemphys.ca/pages/people_photos/cat11.jpeg",
-                email: "kryczko@uottawa.ca",
+                email: "rmacd054@uottawa.ca",
                 status: "PhD Student",
                 website: "",
                 affiliations: ["University of Ottawa"],
