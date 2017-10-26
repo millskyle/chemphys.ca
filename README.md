@@ -4,12 +4,9 @@
 
 ## To update Publications or People
 
-0. Fork the repository if this is your first time (button in the upper right corner)
-1. Edit a file in your forked repository.
+0. Contact @millkyle for contributor access if you don't already have it.
+1. Edit a file.
 2. Commit your changes.
-3. Check https://chemphys.ca/pages/people.php?u=x and/or https://chemphys.ca/pages/publications.php?u=x to verify your change took effect and did not break anything.  Replace the 'x' with your GitHub username.
-4. Create a new pull request, noting that you confirm your change did not break the website.
-5. An admin must approve the pull request. Once this happens, the change will take affect.  The `master` version is cached, and changes could take a bit after they are merged into `master`.
 
 
 
@@ -52,6 +49,7 @@ In `people.js`, a people entry looks like
                 photo: "https://chemphys.ca/pages/people_photos/cat14.jpeg",
                 email: "email@email.com",
                 status: "Summer Student, 2017",
+                rank: "Research Officer",
                 website: "http://example.com",
                 affiliations: ["Affiliation 1", "Affiliation 2"],
                 order: 700,
@@ -62,15 +60,17 @@ In `people.js`, a people entry looks like
 
 - `name` : Name of the person.  Entries are sorted by the letters after the first space.
 - `photo`: An image to use. If the image is not square, the right-most pixels will be cropped. The image must be at least 150x150 pixels.  256x256 is recommended.
+- `rank`: Rank in the group (used for categories).  Must be one of the rank strings specified at the top of `people.js`
 - `email`: OPTIONAL. Email address.
-- `status`: OPTIONAL.  Position/role in the group
+- `status`: OPTIONAL.  Position/role in the group (will be displayed)
 - `website`: OPTIONAL. A 🌐 icon will link to this website.
 - `affiliations`: OPTIONAL. A list of institutional affiliations. 
-- `order`: Order parameter used for grouping (e.g. RO=100, PhD student=500, etc.) 
+- `order`: Order parameter used for overriding alphabetical sorting.
 - `former`: OPTIONAL. If true, person will be placed in the Alumni section. Omit or false for current members.
 
 
-Notes: People are sorted first by `order`, then by last name.  Photos must be hosted from the chemphys.ca domain.  Externally linked photos will break the website.
+Notes: Within a rank, people are sorted first by `order`, then by last name.
+Photos must be hosted from the chemphys.ca domain.  Externally linked photos will break the website.
 
 
 
