@@ -42,6 +42,15 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 100,
             },
             {
+                name: "Philip Bunker",
+                photo: "https://chemphys.ca/pages/people_photos/cat20.jpeg",
+                email: "(insert e-mail)",
+                status: "Research Officer",
+                affiliations: ["University of Ontario Institute of Technology", "University of Ottawa"],
+                website: "http://clean.energyscience.ca/",
+                order: 100,
+            },
+            {
                 name: "Michael Schuurman",
                 photo: "https://chemphys.ca/pages/people_photos/cat02.jpeg",
                 email: "michael.schuurman@nrc.ca",
