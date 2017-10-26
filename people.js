@@ -125,6 +125,7 @@ app.controller('myCtrl', function($scope, $location) {
                 photo: "https://chemphys.ca/pages/people_photos/cat07.jpeg",
                 email: "kyle.mills@uoit.net",
                 status: "PhD Student",
+		rank:"Graduate Student",
                 website: "http://kylemills.net",
                 affiliations: ["University of Ontario Institute of Technology"],
                 order: 500,
