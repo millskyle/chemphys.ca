@@ -44,7 +44,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Philip Bunker",
-                photo: "https://chemphys.ca/pages/people_photos/cat20.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/cat17.jpeg",
                 email: "(insert e-mail)",
                 status: "Emeritus Research Officer",
 		rank: "Research Officer",
