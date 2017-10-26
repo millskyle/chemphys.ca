@@ -45,9 +45,8 @@ app.controller('myCtrl', function($scope, $location) {
                 name: "Philip Bunker",
                 photo: "https://chemphys.ca/pages/people_photos/cat20.jpeg",
                 email: "(insert e-mail)",
-                status: "Research Officer",
-                affiliations: ["University of Ontario Institute of Technology", "University of Ottawa"],
-                website: "http://clean.energyscience.ca/",
+                status: "Emeritus Research Officer",
+                website: "https://chemphys.ca/pbunker",
                 order: 100,
             },
             {
