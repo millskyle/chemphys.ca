@@ -21,14 +21,14 @@ app.config(function($routeProvider) {
 
 app.controller('myCtrl', function($scope, $location) {
 
-	$scope.application = "<? echo $_GET['a']; ?>";
+    $scope.application = "<? echo $_GET['a']; ?>";
     $scope.absoluteURL = "http://chemphys.ca/pages/";
     $scope.currentPath = $location.path();
 
 
     $scope.data = {
         
-        colours: ["#6A322F","#525564","#335078","#813D3A","#4A535C","#74828F","#B1534F","#455F84"],
+        ranks: ["Research Officer", "Research Assistant", "Postdoctoral Fellow","Graduate Student","Undergraduate Student"],
 
 
         people: [
