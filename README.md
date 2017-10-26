@@ -4,7 +4,7 @@
 
 ## To update Publications or People
 
-0. Contact @millkyle for contributor access if you don't already have it.
+0. Contact @millskyle for contributor access if you don't already have it.
 1. Edit a file.
 2. Commit your changes.
 
