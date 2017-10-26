@@ -66,6 +66,7 @@ app.controller('myCtrl', function($scope, $location) {
                 photo: "https://chemphys.ca/pages/people_photos/michael-spanner-fireplace.jpg",
                 email: "michael.spanner@nrc.ca",
                 status: "Research Officer",
+	    	rank: "Research Officer",
                 website: "",
                 order: 100,
             },
