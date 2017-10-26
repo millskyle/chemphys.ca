@@ -171,6 +171,7 @@ app.controller('myCtrl', function($scope, $location) {
                 name: "Iryna Luchak",
                 photo: "https://chemphys.ca/pages/people_photos/cat14.jpeg",
                 email: "",
+		rank: "Undergraduate Student",
                 status: "Summer Student, 2017",
                 former: true,
                 website: "",
