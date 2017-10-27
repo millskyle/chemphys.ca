@@ -34,7 +34,7 @@ app.controller('myCtrl', function($scope, $location) {
         people: [
             {
                 name: "Isaac Tamblyn",
-                photo: "https://chemphys.ca/pages/people_photos/cat09.jpeg",
+                photo: "https://chemphys.ca/pages/image/group/itamblyn.jpg",
                 email: "isaac.tamblyn@nrc.ca",
                 status: "Research Officer",
 	        rank: "Research Officer",
@@ -130,7 +130,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Kyle Mills",
-                photo: "https://chemphys.ca/pages/people_photos/cat07.jpeg",
+                photo: "https://chemphys.ca/pages/image/group/kmills.jpg",
                 email: "kyle.mills@uoit.net",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -140,7 +140,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Kevin Ryczko",
-                photo: "https://chemphys.ca/pages/people_photos/cat13.jpeg",
+                photo: "https://chemphys.ca/pages/image/group/new_kryczko.png",
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -181,7 +181,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Iryna Luchak",
-                photo: "https://chemphys.ca/pages/people_photos/cat14.jpeg",
+                photo: "https://chemphys.ca/pages/image/group/iluchak.jpg",
                 email: "",
 		rank: "Undergraduate Student",
                 status: "Summer Student, 2017",
