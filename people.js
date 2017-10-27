@@ -28,7 +28,7 @@ app.controller('myCtrl', function($scope, $location) {
 
     $scope.data = {
         
-        ranks: ["Research Officer", "Research Assistant", "Postdoctoral Fellow","Graduate Student","Undergraduate Student"],
+        ranks: ["Research Officer", "Postdoctoral Fellow","Graduate Student","Undergraduate Student"],
 
 
         people: [
