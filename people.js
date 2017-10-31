@@ -110,7 +110,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Issaka Seidu",
-                photo: "https://chemphys.ca/pages/people_photos/cat16.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/Issaka_Seidu.png.jpeg",
                 email: "email@email.com",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
@@ -120,7 +120,7 @@ app.controller('myCtrl', function($scope, $location) {
 
             {
                 name: "Uladzimir Yahorau",
-                photo: "https://chemphys.ca/pages/people_photos/cat12.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/Uladzimit.jpg",
                 email: "email@email.com",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
@@ -150,7 +150,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Ryan MacDonell",
-                photo: "https://chemphys.ca/pages/people_photos/cat11.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/MacDonell.png",
                 email: "rmacd054@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -171,7 +171,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Esra'a Saleh",
-                photo: "https://chemphys.ca/pages/people_photos/cat01.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/esraa.jpg",
                 email: "",
                 status: "Co-op Student",
 		rank:"Undergraduate Student",
