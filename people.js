@@ -102,7 +102,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Simon Neville",
                 photo: "https://chemphys.ca/pages/people_photos/simon.png",
-                email: "email@email.com",
+                email: "sneville@gmail.com",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
                 website: "",
@@ -111,7 +111,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Issaka Seidu",
                 photo: "https://chemphys.ca/pages/people_photos/Issaka_Seidu.png.jpeg",
-                email: "email@email.com",
+                email: "",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
                 website: "",
@@ -121,7 +121,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Uladzimir Yahorau",
                 photo: "https://chemphys.ca/pages/people_photos/Uladzimit.jpg",
-                email: "email@email.com",
+                email: "",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
                 website: "",
