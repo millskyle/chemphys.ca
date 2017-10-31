@@ -73,7 +73,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Khabat Heshami",
-                photo: "https://chemphys.ca/pages/people_photos/khabat.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/khabat.jpg",
                 email: "khabat.heshami@nrc.ca",
                 status: "Research Assistant",
 	    	rank: "Research Officer",
