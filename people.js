@@ -91,7 +91,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Dennis Klug",
-                photo: "https://chemphys.ca/pages/people_photos/cat05.jpg",
+                photo: "https://chemphys.ca/pages/people_photos/klug.jpg",
                 email: "dennis.klug@nrc.ca",
                 status: "Research Officer",
 	    	rank: "Research Officer",
