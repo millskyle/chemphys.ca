@@ -53,7 +53,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Michael Schuurman",
-                photo: "https://chemphys.ca/pages/people_photos/cat02.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/schuurman.jpg",
                 email: "michael.schuurman@nrc.ca",
                 affiliations: ["University of Ottawa"],
                 status: "Research Officer",
@@ -101,7 +101,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Simon Neville",
-                photo: "https://chemphys.ca/pages/people_photos/cat06.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/simon.png",
                 email: "email@email.com",
                 status: "Postdoctoral Fellow",
 	    	rank: "Postdoctoral Fellow",
@@ -161,7 +161,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Michael Coates",
-                photo: "https://chemphys.ca/pages/people_photos/cat08.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/coates.png",
                 email: "",
                 status: "Master's Student",
 		rank:"Graduate Student",
