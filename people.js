@@ -179,17 +179,6 @@ app.controller('myCtrl', function($scope, $location) {
                 affiliations: ["Carleton University"],
                 order: 700,
             },
-            {
-                name: "Iryna Luchak",
-                photo: "https://chemphys.ca/pages/image/group/iluchak.jpg",
-                email: "",
-		rank: "Undergraduate Student",
-                status: "Summer Student, 2017",
-                former: true,
-                website: "",
-                affiliations: ["University of British Columbia"],
-                order: 700,
-            },
             ],
 
                 
