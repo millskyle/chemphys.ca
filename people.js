@@ -162,7 +162,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Michael Coates",
                 photo: "https://chemphys.ca/pages/people_photos/coates.png",
-                email: "",
+                email: "mcoat090@uottawa.ca",
                 status: "Master's Student",
 		rank:"Graduate Student",
                 website: "",
