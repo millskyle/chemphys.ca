@@ -121,7 +121,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Uladzimir Yahorau",
                 photo: "https://chemphys.ca/pages/people_photos/Uladzimit.jpg",
-                email: "",
+                email: "uladzimiryahorau@gmail.com",
                 status: "",
 	    	rank: "Postdoctoral Fellow",
                 website: "",
