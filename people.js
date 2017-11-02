@@ -53,7 +53,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Michael Schuurman",
-                photo: "https://chemphys.ca/pages/people_photos/schuurman.jpg",
+                photo: "https://chemphys.ca/pages/people_photos/Schuurman02.png",
                 email: "michael.schuurman@nrc.ca",
                 affiliations: ["Adjunct Professor: University of Ottawa"],
                 status: "",
@@ -63,7 +63,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Michael Spanner",
-                photo: "https://chemphys.ca/pages/people_photos/michael-spanner-fireplace.jpg",
+                photo: "https://chemphys.ca/pages/people_photos/Spanner08.png",
                 email: "michael.spanner@nrc.ca",
                 affiliations: ["Adjunct Professor: University of Ottawa"],
                 status: "",
@@ -73,7 +73,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Khabat Heshami",
-                photo: "https://chemphys.ca/pages/people_photos/KhabatHeshami.png",
+                photo: "https://chemphys.ca/pages/people_photos/Khabat01.png",
                 email: "khabat.heshami@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
@@ -82,7 +82,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
 	    {
                 name: "Homin Shin",
-                photo: "https://chemphys.ca/pages/people_photos/cat18.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/Homin01.png",
                 email: "homin.shin@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
@@ -101,7 +101,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Simon Neville",
-                photo: "https://chemphys.ca/pages/people_photos/simon.png",
+                photo: "https://chemphys.ca/pages/people_photos/Simon02.png",
                 email: "sneville@gmail.com",
                 status: "",
 	    	rank: "Postdoctoral Fellow",
@@ -110,7 +110,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Issaka Seidu",
-                photo: "https://chemphys.ca/pages/people_photos/Issaka_Seidu.png.jpeg",
+                photo: "https://chemphys.ca/pages/people_photos/Issaka01.png",
                 email: "",
                 status: "",
 	    	rank: "Postdoctoral Fellow",
@@ -120,7 +120,7 @@ app.controller('myCtrl', function($scope, $location) {
 
             {
                 name: "Uladzimir Yahorau",
-                photo: "https://chemphys.ca/pages/people_photos/Uladzimit.jpg",
+                photo: "https://chemphys.ca/pages/people_photos/Vladimir01.png",
                 email: "uladzimiryahorau@gmail.com",
                 status: "",
 	    	rank: "Postdoctoral Fellow",
@@ -130,7 +130,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Kyle Mills",
-                photo: "https://chemphys.ca/pages/image/group/kmills.jpg",
+                photo: "https://chemphys.ca/pages/image/group/Kyle01.png",
                 email: "kyle.mills@uoit.net",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -140,7 +140,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Kevin Ryczko",
-                photo: "https://chemphys.ca/pages/image/group/new_kryczko.png",
+                photo: "https://chemphys.ca/pages/image/group/Kevin01.png",
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -150,7 +150,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Ryan MacDonell",
-                photo: "https://chemphys.ca/pages/people_photos/MacDonell.png",
+                photo: "https://chemphys.ca/pages/people_photos/Ryan01.png",
                 email: "rmacd054@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
