@@ -130,7 +130,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Kyle Mills",
-                photo: "https://chemphys.ca/pages/image/group/Kyle01.png",
+                photo: "https://chemphys.ca/pages/people_photos/Kyle01.png",
                 email: "kyle.mills@uoit.net",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -140,7 +140,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Kevin Ryczko",
-                photo: "https://chemphys.ca/pages/image/group/Kevin01.png",
+                photo: "https://chemphys.ca/pages/people_photos/Kevin01.png",
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
