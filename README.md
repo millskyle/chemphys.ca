@@ -2,44 +2,14 @@
 
 
 
-## To update Publications or People
+## To update People
 
 0. Contact @millskyle for contributor access if you don't already have it.
-1. Edit a file.
+1. Edit `people.js`.
 2. Commit your changes.
 
 
-
-# Publications
-
-In `publications.js`, a publications entry looks like
-
-```python
-            {
-                authors: ["First Last", "First Last"],
-                title: "Title strings",
-                date: "YYYY-MM-DD",
-                journal: "Phys. Rev. A 96, 042113",
-                DOI: "10.1103/PhysRevA.96.042113",
-                arxiv: "1710.08053",
-                pdf: "https://arxiv.org/pdf/1710.08053.pdf",
-                abstract: "Optional, unused as of now",
-            },
-```
-
-- `authors`: List of authors in the order they appear on the publication.
-- `title`: The title of the publication
-- `date`: string representation of publication date. Only year is displayed. Month and day are used for sorting.
-- `journal`: OPTIONAL. Journal reference
-- `DOI`: OPTIONAL. The Digital Object Identifier, without the "https://doi.org/"
-- `arxiv`: OPTIONAL. The arXiv.org identifier.
-- `pdf`: OPTIONAL. The link to a PDF version of the publication.  If `arxiv` is specified, `pdf` will be populated automatically. If both are specified, the `pdf` specified explicitly will take precedent.- `abstract`: UNUSED. A field for the publication abstract, but is currently unused.
-
-
-
-
-
-# People
+## People
 
 In `people.js`, a people entry looks like
 
@@ -66,7 +36,7 @@ In `people.js`, a people entry looks like
 - `website`: OPTIONAL. A 🌐 icon will link to this website.
 - `affiliations`: OPTIONAL. A list of institutional affiliations. 
 - `order`: Order parameter used for overriding alphabetical sorting.
-- `former`: OPTIONAL. If true, person will be placed in the Alumni section. Omit or false for current members.
+- `former`: OPTIONAL. If true, person will be placed in the Alumni section. Omit or false for current members. If the Alumni section is hidden on the website, this will effectively hide the person.
 
 
 Notes: Within a rank, people are sorted first by `order`, then by last name.
