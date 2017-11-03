@@ -48,6 +48,7 @@ app.controller('myCtrl', function($scope, $location) {
                 email: "philip.bunker@nrc.ca",
                 status: "Emeritus",
 		rank: "Research Officer",
+                affiliations: ["Guest Scientist at the Fritz Haber Institute, Berlin", "Associate Researcher at The New Zealand Institute for Advanced Study"],
                 website: "https://chemphys.ca/pbunker",
                 order: 100,
             },
