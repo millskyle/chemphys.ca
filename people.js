@@ -112,7 +112,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Issaka Seidu",
                 photo: "https://chemphys.ca/pages/people_photos/Issaka01.png",
-                email: "",
+                email: "seiduissaka@gmail.com",
                 status: "",
 	    	rank: "Postdoctoral Fellow",
                 website: "",
