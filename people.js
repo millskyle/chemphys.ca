@@ -141,7 +141,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Kevin Ryczko",
-                photo: "https://chemphys.ca/pages/people_photos/Kevin01.png",
+                photo: "https://chemphys.ca/pages/image/group/new_kryczko.png",
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
