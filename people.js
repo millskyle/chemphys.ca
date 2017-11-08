@@ -59,7 +59,7 @@ app.controller('myCtrl', function($scope, $location) {
                 affiliations: ["Adjunct Professor: University of Ottawa"],
                 status: "",
 		rank: "Research Officer",
-                website: "",
+                website: "https://chemphys.ca/michael-schuurman/",
                 order: 100,
             },
             {
