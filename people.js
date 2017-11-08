@@ -69,6 +69,7 @@ app.controller('myCtrl', function($scope, $location) {
                 affiliations: ["Adjunct Professor: University of Ottawa"],
                 status: "",
 	    	rank: "Research Officer",
+                website: "https://chemphys.ca/michael-spanner",
                 website: "",
                 order: 100,
             },
