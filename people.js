@@ -70,7 +70,6 @@ app.controller('myCtrl', function($scope, $location) {
                 status: "",
 	    	rank: "Research Officer",
                 website: "https://chemphys.ca/michael-spanner",
-                website: "",
                 order: 100,
             },
             {
