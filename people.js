@@ -103,7 +103,7 @@ app.controller('myCtrl', function($scope, $location) {
             {
                 name: "Simon Neville",
                 photo: "https://chemphys.ca/pages/people_photos/Simon02.png",
-                email: "sneville@gmail.com",
+                email: "sneville.sneville@gmail.com",
                 status: "",
                 affiliations: ["Supervisor: Michael Schuurman"],
 	    	rank: "Postdoctoral Fellow",
