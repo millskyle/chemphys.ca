@@ -148,7 +148,7 @@ app.controller('myCtrl', function($scope, $location) {
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
-                website: "",
+                website: "http://kryczko.com",
                 affiliations: ["University of Ottawa","Supervisor: Isaac Tamblyn"],
                 order: 500,
             },
