@@ -78,7 +78,7 @@ app.controller('myCtrl', function($scope, $location) {
                 email: "khabat.heshami@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
-                website: "https://chemphys.ca/kheshami",
+                website: "https://chemphys.ca/khabat-heshami",
                 order: 100,
             },
 	    {
