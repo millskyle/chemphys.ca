@@ -184,6 +184,17 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 700,
 		former: true
             },
+	    {
+                name: "Iryna Luchak",
+                photo: "https://chemphys.ca/pages/image/group/iluchak.jpg",
+                email: "",
+                status: "Summer Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["University of British Columbia","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: true
+            },
             ],
 
                 
