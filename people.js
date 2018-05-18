@@ -122,6 +122,17 @@ app.controller('myCtrl', function($scope, $location) {
             },
 
             {
+                name: "Shiva Gholami",
+                photo: "https://chemphys.ca/pages/image/group/sgholami.jpg",
+                email: "",
+                status: "",
+                affiliations: ["Supervisor: Isaac Tamblyn"],
+	    	rank: "Postdoctoral Fellow",
+                website: "",
+                order: 400,
+		former:true,
+            },
+            {
                 name: "Uladzimir Yahorau",
                 photo: "https://chemphys.ca/pages/people_photos/Vladimir01.png",
                 email: "uladzimiryahorau@gmail.com",
@@ -206,6 +217,9 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 700,
 		former: true
             },
+		
+		
+		
             ],
 
                 
