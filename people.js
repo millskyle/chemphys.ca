@@ -195,6 +195,17 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 700,
 		former: true
             },
+            {
+                name: "Elizabeth Selinger",
+                photo: "https://chemphys.ca/pages/image/group/eselinger.jpg",
+                email: "",
+                status: "Master's Student",
+		rank:"Graduate Student",
+                website: "",
+                affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: true
+            },
             ],
 
                 
