@@ -182,6 +182,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["Carleton University","Supervisor: Isaac Tamblyn"],
                 order: 700,
+		former: true
             },
             ],
 
