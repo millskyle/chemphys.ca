@@ -142,6 +142,16 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 order: 400,
             },
+	    {
+                name: "Marianna",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4126.jpg",
+                email: "",
+                status: "",
+                affiliations: [""],
+	    	rank: "Postdoctoral Fellow",
+                website: "",
+                order: 400,
+            },
             
             {
                 name: "Kyle Mills",
