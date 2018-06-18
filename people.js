@@ -143,11 +143,11 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 400,
             },
 	    {
-                name: "Marianna",
+                name: "Marianna Lytova",
                 photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4124.jpg",
-                email: "",
+                email: "mlytova2@uottawa.ca",
                 status: "",
-                affiliations: [""],
+                affiliations: ["Supervisor: Michael Spanner"],
 	    	rank: "Postdoctoral Fellow",
                 website: "",
                 order: 400,
@@ -217,7 +217,7 @@ app.controller('myCtrl', function($scope, $location) {
 		former: true
             },
             {
-                name: "Jacob",
+                name: "Jacob Taylor",
                 photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4130.jpg",
                 email: "",
                 status: "Summer Student",
