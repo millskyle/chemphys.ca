@@ -145,7 +145,7 @@ app.controller('myCtrl', function($scope, $location) {
             
             {
                 name: "Kyle Mills",
-                photo: "https://chemphys.ca/pages/people_photos/Kyle01.png",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4137.jpg",
                 email: "kyle.mills@uoit.net",
                 status: "PhD Student",
 		rank:"Graduate Student",
