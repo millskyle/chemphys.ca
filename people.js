@@ -207,6 +207,17 @@ app.controller('myCtrl', function($scope, $location) {
 		former: true
             },
             {
+                name: "Jacob",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4127.jpg",
+                email: "",
+                status: "Summer Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["University of Waterloo","Supervisor: Khabat Heshami"],
+                order: 700,
+		former: false
+            },
+            {
                 name: "Elizabeth Selinger",
                 photo: "https://chemphys.ca/pages/image/group/eselinger.jpg",
                 email: "",
@@ -216,6 +227,17 @@ app.controller('myCtrl', function($scope, $location) {
                 affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
                 order: 700,
 		former: true
+            },
+	    {
+                name: "Rory Coles",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4134.jpg",
+                email: "",
+                status: "Master's Student",
+		rank:"Graduate Student",
+                website: "",
+                affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: false
             },
 		
 		
