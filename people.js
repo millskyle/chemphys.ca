@@ -64,7 +64,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Michael Spanner",
-                photo: "https://chemphys.ca/pages/people_photos/Spanner08.png",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4142.jpg",
                 email: "michael.spanner@nrc.ca",
                 affiliations: ["Adjunct Professor: University of Ottawa"],
                 status: "",
@@ -83,7 +83,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
 	    {
                 name: "Homin Shin",
-                photo: "https://chemphys.ca/pages/people_photos/Homin01.png",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4133.jpg",
                 email: "homin.shin@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
@@ -92,7 +92,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Dennis Klug",
-                photo: "https://chemphys.ca/pages/people_photos/klug.jpg",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4147.jpg",
                 email: "dennis.klug@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
