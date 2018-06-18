@@ -92,7 +92,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Dennis Klug",
-                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4147.jpg",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4144.jpg",
                 email: "dennis.klug@nrc.ca",
                 status: "",
 	    	rank: "Research Officer",
@@ -144,7 +144,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
 	    {
                 name: "Marianna",
-                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4126.jpg",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4124.jpg",
                 email: "",
                 status: "",
                 affiliations: [""],
@@ -218,7 +218,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Jacob",
-                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4127.jpg",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4130.jpg",
                 email: "",
                 status: "Summer Student",
 		rank:"Undergraduate Student",
