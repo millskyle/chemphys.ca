@@ -251,6 +251,17 @@ app.controller('myCtrl', function($scope, $location) {
 		former: false
             },
 	    {
+                name: "Chris Beeler",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/07/male.jpg",
+                email: "",
+                status: "Master's Student",
+		rank:"Graduate Student",
+                website: "",
+                affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: false
+            },
+	    {
                 name: "Kateryna Kubrak",
                 photo: "https://chemphys.ca/wp-content/uploads/2018/07/T0J01NP53-U8GRPR10Q-2d67a9bf76b6-512.jpeg",
                 email: "",
