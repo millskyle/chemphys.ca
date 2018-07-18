@@ -141,6 +141,7 @@ app.controller('myCtrl', function($scope, $location) {
 	    	rank: "Postdoctoral Fellow",
                 website: "",
                 order: 400,
+		former:true
             },
 	    {
                 name: "Marianna Lytova",
@@ -249,6 +250,40 @@ app.controller('myCtrl', function($scope, $location) {
                 order: 700,
 		former: false
             },
+	    {
+                name: "Kateryna Kubrak",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/07/T0J01NP53-U8GRPR10Q-2d67a9bf76b6-512.jpeg",
+                email: "",
+                status: "Mitacs Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["Taras Shevchenko National University of Kyiv","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: false
+            },
+	    {
+                name: "Kyle Sprague",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/07/male.jpg",
+                email: "",
+                status: "Summer Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["University of Ottawa","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: false
+            },
+	    {
+                name: "Yuwei Zhang",
+                photo: "https://chemphys.ca/wp-content/uploads/2018/07/T0J01NP53-U9L0UCRAN-2dabfc9bc87f-512.jpeg",
+                email: "",
+                status: "Summer Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["Nankai University","Supervisor: Isaac Tamblyn"],
+                order: 700,
+		former: false
+            },
+		
 		
 		
 		
