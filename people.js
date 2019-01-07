@@ -295,7 +295,17 @@ app.controller('myCtrl', function($scope, $location) {
 		former: false
             },
 		
-		
+            {
+                name: "Axiel Yaël Birenbaum",
+                photo: "https://chemphys.ca/pages/people_photos/NRCportrait--AYBirenbaum_retouche.jpeg",
+                email: "ayael.birenbaum@gmail.com",
+                status: "",
+                affiliations: ["Supervisor: Isaac Tamblyn"],
+	    	rank: "Postdoctoral Fellow",
+                website: "aybirenbaum.com",
+                order: 400,
+            },
+            		
 		
 		
             ],
