@@ -302,7 +302,7 @@ app.controller('myCtrl', function($scope, $location) {
                 status: "",
                 affiliations: ["Supervisor: Isaac Tamblyn"],
 	    	rank: "Postdoctoral Fellow",
-                website: "aybirenbaum.com",
+                website: "https://aybirenbaum.com",
                 order: 400,
             },
             		
