@@ -166,7 +166,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
             {
                 name: "Kevin Ryczko",
-                photo: "https://chemphys.ca/pages/image/group/new_kryczko.png",
+                photo: "https://chemphys.ca/pages/people_photos/Kevin.jpg",
                 email: "kryczko@uottawa.ca",
                 status: "PhD Student",
 		rank:"Graduate Student",
@@ -221,7 +221,7 @@ app.controller('myCtrl', function($scope, $location) {
                 name: "Jacob Taylor",
                 photo: "https://chemphys.ca/wp-content/uploads/2018/06/DSC_4130.jpg",
                 email: "",
-                status: "Summer Student",
+                status: "Co-op Student",
 		rank:"Undergraduate Student",
                 website: "",
                 affiliations: ["University of Waterloo","Supervisor: Khabat Heshami"],
@@ -252,7 +252,7 @@ app.controller('myCtrl', function($scope, $location) {
             },
 	    {
                 name: "Chris Beeler",
-                photo: "https://chemphys.ca/wp-content/uploads/2018/07/male.jpg",
+                photo: "https://chemphys.ca/pages/people_photos/cb.jpg",
                 email: "",
                 status: "Master's Student",
 		rank:"Graduate Student",
@@ -305,7 +305,19 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "https://aybirenbaum.com",
                 order: 400,
             },
-            		
+           
+	{
+                name: "Katherine Herperger",
+                photo: "https://chemphys.ca/pages/people_photos/kherp.jpg",
+                email: "kherp046@uottawa.ca",
+                status: "Co-op Student",
+		rank:"Undergraduate Student",
+                website: "",
+                affiliations: ["University of Ottawa","Supervisor: Michael Schuurman"],
+                order: 700,
+		former: false
+            },
+	
 		
 		
             ],
