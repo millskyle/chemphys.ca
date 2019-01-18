@@ -270,7 +270,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["Taras Shevchenko National University of Kyiv","Supervisor: Isaac Tamblyn"],
                 order: 700,
-		former: false
+		former: true
             },
 	    {
                 name: "Kyle Sprague",
@@ -281,7 +281,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Ottawa","Supervisor: Isaac Tamblyn"],
                 order: 700,
-		former: false
+		former: true
             },
 	    {
                 name: "Yuwei Zhang",
@@ -292,7 +292,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["Nankai University","Supervisor: Isaac Tamblyn"],
                 order: 700,
-		former: false
+		former: true
             },
 		
             {
