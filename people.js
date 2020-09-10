@@ -250,16 +250,16 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
                 order: 700,
-		former: false
+		former: true
             },
 	    {
                 name: "Chris Beeler",
                 photo: "https://chemphys.ca/pages/people_photos/cb.jpg",
                 email: "",
-                status: "Master's Student",
+                status: "PhD Student",
 		rank:"Graduate Student",
                 website: "",
-                affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
+                affiliations: ["University of Ottawa","Supervisor: Isaac Tamblyn"],
                 order: 700,
 		former: false
             },
