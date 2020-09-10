@@ -161,7 +161,7 @@ app.controller('myCtrl', function($scope, $location) {
                 status: "PhD Student",
 		rank:"Graduate Student",
                 website: "http://kylemills.net",
-                affiliations: ["University of Ontario Institute of Technology","Supervisor: Isaac Tamblyn"],
+                affiliations: ["Ontario Tech University","Supervisor: Isaac Tamblyn"],
                 order: 500,
             },
             {
@@ -183,6 +183,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Ottawa","Supervisor: Michael Schuurman"],
                 order: 500,
+		former:true,
             },
             
             {
@@ -194,6 +195,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Ottawa","Supervisor: Michael Schuurman"],
                 order: 600,
+		former: true
             },
             {
                 name: "Esra'a Saleh",
@@ -226,7 +228,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Waterloo","Supervisor: Khabat Heshami"],
                 order: 700,
-		former: false
+		former: true
             },
             {
                 name: "Elizabeth Selinger",
