@@ -164,6 +164,16 @@ app.controller('myCtrl', function($scope, $location) {
                 affiliations: ["Ontario Tech University","Supervisor: Isaac Tamblyn"],
                 order: 500,
             },
+	    {
+                name: "Evan Thomas",
+                photo: "https://chemphys.ca/pages/people_photos/missing.png",
+                email: "",
+                status: "Master's Student",
+		rank:"Graduate Student",
+                website: "",
+                affiliations: ["University of Ottawa","Supervisor: Isaac Tamblyn"],
+                order: 500,
+            },
             {
                 name: "Kevin Ryczko",
                 photo: "https://chemphys.ca/pages/people_photos/Kevin.jpg",
