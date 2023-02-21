@@ -152,6 +152,7 @@ app.controller('myCtrl', function($scope, $location) {
 	    	rank: "Postdoctoral Fellow",
                 website: "",
                 order: 400,
+		former:true
             },
             
             {
@@ -163,6 +164,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "http://kylemills.net",
                 affiliations: ["Ontario Tech University","Supervisor: Isaac Tamblyn"],
                 order: 500,
+		former:true
             },
 	    {
                 name: "Evan Thomas",
@@ -316,6 +318,7 @@ app.controller('myCtrl', function($scope, $location) {
 	    	rank: "Postdoctoral Fellow",
                 website: "https://aybirenbaum.com",
                 order: 400,
+		former:true
             },
            
 	{
@@ -327,7 +330,7 @@ app.controller('myCtrl', function($scope, $location) {
                 website: "",
                 affiliations: ["University of Ottawa","Supervisor: Michael Schuurman"],
                 order: 700,
-		former: false
+		former: true
             },
 	
 		
